@@ -1,0 +1,13 @@
+{
+  "name" : "shoelace-ui-hero",
+  "version" : "0.0.1",
+  "description" : "Hero styles and variables",
+  "repository" : "https://github.com/shoelace-ui/hero.git",
+  "keywords" : ["stylus", "hero", "heros"],
+  "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license" : "MIT",
+  "dependencies": {
+    "shoelace-ui-font-size": "git+https://github.com/shoelace-ui/font-size.git",
+    "shoelace-ui-headings": "git+https://github.com/shoelace-ui/headings.git"
+  }
+}
