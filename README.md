@@ -1,13 +1,17 @@
 # hero
 
-Hero styles and variables.
+Hero styles and variables
 
-## Installation
+## Install
 
 ```sh
-$ npm install git://github.com/shoelace-ui/hero.git
+$ npm install shoelace-ui-hero
 ```
+## Usage
 
+```styl
+@require 'shoelace-ui-hero'
+```
 ## License
 
 MIT
